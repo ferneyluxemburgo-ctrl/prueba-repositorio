@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>HOLA MUNDO</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #ff5722, #ffeb3b, #4caf50, #2196f3);
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      text-shadow: 2px 2px 5px rgba(0,0,0,0.4);
+    }
+    h1 {
+      font-size: 3em;
+    }
+  </style>
+</head>
+<body>
+  <h1> HOLA MUNDO !!!</h1>
+</body>
+</html>
